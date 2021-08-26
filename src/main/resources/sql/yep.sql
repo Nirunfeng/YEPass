@@ -42,14 +42,30 @@ insert into exam (examname, type, tid, entrytime, examtime)  values('保险代�
 insert into exam (examname, type, tid, entrytime, examtime)  values('保险公估人','保险类',002,'1,2,3,4,5,6,7,8,9,10,11,12','1,2,3,4,5,6,7,8,9,10,11,12');
 insert into exam (examname, type, tid, entrytime, examtime)  values('保险经纪人','保险类',002,'1,2,3,4,5,6,7,8,9,10,11,12','1,2,3,4,5,6,7,8,9,10,11,12');
 insert into exam (examname, type, tid, entrytime, examtime)  values('雅思','英语类',003,'1,2,3,4,5,6,7,8,9,10,11,12','1,2,3,4,5,6,7,8,9,10,11,12');
+
 insert into exam (examname, type, tid, entrytime, examtime)  values('证券从业资格','证券类',004,'1,4,6,10','3,6,9,11');
 insert into exam (examname, type, tid, entrytime, examtime)  values('期货从业资格','证券类',004,'3,4,6,8,10','4,5,7,9,11');
 insert into exam (examname, type, tid, entrytime, examtime)  values('英语专业八级','英语类',003,'11,12','3');
 insert into exam (examname, type, tid, entrytime, examtime)  values('医学考博英语','考研考博类',001,'10','3');
-insert into exam (examname, type, tid, entrytime, examtime)  values('考研','考研考博类',001,'9-10月','1月');
-insert into exam (examname, type, tid, entrytime, examtime)  values('考研','考研考博类',001,'9-10月','1月');
-insert into exam (examname, type, tid, entrytime, examtime)  values('考研','考研考博类',001,'9-10月','1月');
-insert into exam (examname, type, tid, entrytime, examtime)  values('考研','考研考博类',001,'9-10月','1月');
+
+insert into exam (examname, type, tid, entrytime, examtime)  values('全国英语等级(PETS)','英语类',003,'1,6','3,9');
+insert into exam (examname, type, tid, entrytime, examtime)  values('市会计从业','财会类',005,'10','3');
+insert into exam (examname, type, tid, entrytime, examtime)  values('全国计算机等级考试(一级)','计算机类',006,'1,11,12','3');
+insert into exam (examname, type, tid, entrytime, examtime)  values('全国计算机等级考试(二级)','计算机类',006,'1,11,12','3');
+insert into exam (examname, type, tid, entrytime, examtime)  values('全国计算机等级考试(三级)','计算机类',006,'1,11,12','3');
+insert into exam (examname, type, tid, entrytime, examtime)  values('全国计算机等级考试(四级)','计算机类',006,'1,11,12','3');
+insert into exam (examname, type, tid, entrytime, examtime)  values('中国精算师','精算师',007,'6','4，9');
+insert into exam (examname, type, tid, entrytime, examtime)  values('英语专业四级','英语类',003,'11,12','4');
+insert into exam (examname, type, tid, entrytime, examtime)  values('全国大学生英语竞赛(C类)','英语类',003,'1,2,3','4,5');
+insert into exam (examname, type, tid, entrytime, examtime)  values('全国职称外语','英语类',003,'10','3,4');
+
+
+insert into exam (examname, type, tid, entrytime, examtime)  values('银行从业资格','金融类',008,'3,8','5,10');
+insert into exam (examname, type, tid, entrytime, examtime)  values('国家理财规划师(ChFP)','金融类',008,'3,9','5,11');
+insert into exam (examname, type, tid, entrytime, examtime)  values('剑桥商务英语证书(BEC)','英语类',003,'1,2,3,7,8,9','5,6,11,12');
+insert into exam (examname, type, tid, entrytime, examtime)  values('全国翻译专业资格(水平)考试','英语类',003,'各地不同','5,11');
+
+
 insert into exam (examname, type, tid, entrytime, examtime)  values('考研','考研考博类',001,'9-10月','1月');
 insert into exam (examname, type, tid, entrytime, examtime)  values('考研','考研考博类',001,'9-10月','1月');
 insert into exam (examname, type, tid, entrytime, examtime)  values('考研','考研考博类',001,'9-10月','1月');
