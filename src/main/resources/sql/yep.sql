@@ -65,7 +65,18 @@ insert into exam (examname, type, tid, entrytime, examtime)  values('国家理�
 insert into exam (examname, type, tid, entrytime, examtime)  values('剑桥商务英语证书(BEC)','英语类',003,'1,2,3,7,8,9','5,6,11,12');
 insert into exam (examname, type, tid, entrytime, examtime)  values('全国翻译专业资格(水平)考试','英语类',003,'各地不同','5,11');
 
-
+insert into exam (examname, type, tid, entrytime, examtime)  values('企业人力资源管理师(二级)','管理类',009,'3,9','5,11');
+insert into exam (examname, type, tid, entrytime, examtime)  values('企业人力资源管理师(三级)','管理类',009,'3,9','5,11');
+insert into exam (examname, type, tid, entrytime, examtime)  values('企业人力资源管理师(四级)','管理类',009,'3,9','5,11');
+insert into exam (examname, type, tid, entrytime, examtime)  values('营销师(一级)','管理类',009,'3,9','5,11');
+insert into exam (examname, type, tid, entrytime, examtime)  values('营销师(二级)','管理类',009,'3,9','5,11');
+insert into exam (examname, type, tid, entrytime, examtime)  values('[中物联]助理物流师','管理类',009,'3,9','5,11');
+insert into exam (examname, type, tid, entrytime, examtime)  values('[中物联]物流师','管理类',009,'3,9','5,11');
+insert into exam (examname, type, tid, entrytime, examtime)  values('[中物联]高级物流师','管理类',009,'3,9','5,11');
+insert into exam (examname, type, tid, entrytime, examtime)  values('心理咨询师(三级)','心理类',010,'3,9','5,11');
+insert into exam (examname, type, tid, entrytime, examtime)  values('心理咨询师(二级)','心理类',010,'3,9','5,11');
+insert into exam (examname, type, tid, entrytime, examtime)  values('初级会计职称(助理会计师)','财会类',005,'9,10,11','5');
+insert into exam (examname, type, tid, entrytime, examtime)  values('中级会计职称(会计师)','财会类',005,'9,10,11','5');
 insert into exam (examname, type, tid, entrytime, examtime)  values('考研','考研考博类',001,'9-10月','1月');
 insert into exam (examname, type, tid, entrytime, examtime)  values('考研','考研考博类',001,'9-10月','1月');
 insert into exam (examname, type, tid, entrytime, examtime)  values('考研','考研考博类',001,'9-10月','1月');
