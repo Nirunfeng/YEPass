@@ -77,6 +77,22 @@ insert into exam (examname, type, tid, entrytime, examtime)  values('心理咨�
 insert into exam (examname, type, tid, entrytime, examtime)  values('心理咨询师(二级)','心理类',010,'3,9','5,11');
 insert into exam (examname, type, tid, entrytime, examtime)  values('初级会计职称(助理会计师)','财会类',005,'9,10,11','5');
 insert into exam (examname, type, tid, entrytime, examtime)  values('中级会计职称(会计师)','财会类',005,'9,10,11','5');
+
+insert into exam (examname, type, tid, entrytime, examtime)  values('监理工程师(建设部)','工程类',011,'12','5');
+insert into exam (examname, type, tid, entrytime, examtime)  values('一级建筑师','工程类',011,'2,3','5');
+insert into exam (examname, type, tid, entrytime, examtime)  values('二级建筑师','工程类',011,'2,3','5');
+insert into exam (examname, type, tid, entrytime, examtime)  values('环境影响评价工程师','工程类',011,'12,1,2','5');
+insert into exam (examname, type, tid, entrytime, examtime)  values('执业护士','医学类',012,'12','5');
+insert into exam (examname, type, tid, entrytime, examtime)  values('护师','医学类',012,'12','5');
+insert into exam (examname, type, tid, entrytime, examtime)  values('主管护师','医学类',012,'12','5');
+insert into exam (examname, type, tid, entrytime, examtime)  values('同等学历申硕英语','学历类',013,'3','5');
+insert into exam (examname, type, tid, entrytime, examtime)  values('同等学历申硕法学','学历类',013,'3','5');
+insert into exam (examname, type, tid, entrytime, examtime)  values('同等学历申硕工商管理','学历类',013,'3','5');
+insert into exam (examname, type, tid, entrytime, examtime)  values('同等学历申硕管理科学与工程','学历类',013,'3','5');
+insert into exam (examname, type, tid, entrytime, examtime)  values('同等学历申硕教育学','学历类',013,'3','5');
+insert into exam (examname, type, tid, entrytime, examtime)  values('同等学历申硕心理学','学历类',013,'3','5');
+insert into exam (examname, type, tid, entrytime, examtime)  values('同等学历经济学','学历类',013,'4','5');
+
 insert into exam (examname, type, tid, entrytime, examtime)  values('考研','考研考博类',001,'9-10月','1月');
 insert into exam (examname, type, tid, entrytime, examtime)  values('考研','考研考博类',001,'9-10月','1月');
 insert into exam (examname, type, tid, entrytime, examtime)  values('考研','考研考博类',001,'9-10月','1月');
