@@ -93,6 +93,19 @@ insert into exam (examname, type, tid, entrytime, examtime)  values('同等学�
 insert into exam (examname, type, tid, entrytime, examtime)  values('同等学历申硕心理学','学历类',013,'3','5');
 insert into exam (examname, type, tid, entrytime, examtime)  values('同等学历经济学','学历类',013,'4','5');
 
+
+insert into exam (examname, type, tid, entrytime, examtime)  values('证券公司合规管理人员胜任能力','证券类',004,'5','6');
+insert into exam (examname, type, tid, entrytime, examtime)  values('金融英语证书','金融类',008,'3,4','6');
+insert into exam (examname, type, tid, entrytime, examtime)  values('金融英语证书','金融类',008,'3,4','6');
+insert into exam (examname, type, tid, entrytime, examtime)  values('特许金融分析师(CFA)','金融类',008,'9,10,11,12,1,2,3','6');
+insert into exam (examname, type, tid, entrytime, examtime)  values('大学英语四级','英语类',003,'3,4,8,10','6,12');
+insert into exam (examname, type, tid, entrytime, examtime)  values('大学英语六级','英语类',003,'3,4,8,10','6,12');
+insert into exam (examname, type, tid, entrytime, examtime)  values('高等学校英语应用能力','英语类',003,'4,10','6,12');
+insert into exam (examname, type, tid, entrytime, examtime)  values('社会工作师(初级)','国家职业资格考试',014,'12,1','6');
+insert into exam (examname, type, tid, entrytime, examtime)  values('社会工作师(中级)','国家职业资格考试',014,'12,1','6');
+insert into exam (examname, type, tid, entrytime, examtime)  values('省会计从业','财会类',005,'时间不定','6,11');
+insert into exam (examname, type, tid, entrytime, examtime)  values('注册税务师','财会类',005,'12','6');
+
 insert into exam (examname, type, tid, entrytime, examtime)  values('考研','考研考博类',001,'9-10月','1月');
 insert into exam (examname, type, tid, entrytime, examtime)  values('考研','考研考博类',001,'9-10月','1月');
 insert into exam (examname, type, tid, entrytime, examtime)  values('考研','考研考博类',001,'9-10月','1月');
