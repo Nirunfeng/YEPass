@@ -106,6 +106,8 @@ insert into exam (examname, type, tid, entrytime, examtime)  values('社会工�
 insert into exam (examname, type, tid, entrytime, examtime)  values('省会计从业','财会类',005,'时间不定','6,11');
 insert into exam (examname, type, tid, entrytime, examtime)  values('注册税务师','财会类',005,'12','6');
 
+
+
 insert into exam (examname, type, tid, entrytime, examtime)  values('考研','考研考博类',001,'9-10月','1月');
 insert into exam (examname, type, tid, entrytime, examtime)  values('考研','考研考博类',001,'9-10月','1月');
 insert into exam (examname, type, tid, entrytime, examtime)  values('考研','考研考博类',001,'9-10月','1月');
