@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<!--
+  Author: Nirunfeng
+  CreateAt: 2021年10月14日23:44:45
+  License: MIT
+-->
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Login</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="/js/jquery-2.1.0.js"></script>
+</head>
+<body>
+<div class="container">
+    <div class="form-warp">
+        <form class="sign-in-form">
+            <h2 class="form-title">登录</h2>
+            <input id="username" placeholder="用户名" />
+            <input id="password" type="password" placeholder="密码" />
+            <div class="submit-btn">立即登录</div>
+        </form>
+        <form class="sign-up-form">
+            <h2 class="form-title">注册</h2>
+            <input id="regusername"  placeholder="用户名" />
+            <input id="regpassword" type="password" placeholder="密码" />
+            <div class="submit-btn">立即注册</div>
+        </form>
+    </div>
+    <div class="desc-warp">
+        <div class="desc-warp-item sign-up-desc">
+            <div class="content">
+                <button id="sign-up-btn">注册</button>
+            </div>
+            <img src="./img/log.svg" alt="">
+        </div>
+        <div class="desc-warp-item sign-in-desc">
+            <div class="content">
+                <button id="sign-in-btn">登录</button>
+            </div>
+            <img src="./img/register.svg" alt="">
+        </div>
+    </div>
+</div>
+<script src="/js/main.js"></script>
+<script>
+    /*获取容器*/
+    const container=document.querySelector('.container');
+    /*当前是登录选项*/
+    if(!container.classList.contains('sign-up-mode')){
+
+    }
+
+</script>
+</body>
+</html>
